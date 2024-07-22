@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Solopreneur focused on open-source and building in public.
+I'm a Indie Web Developer focused on building in public. 🚀
 
 - 🔭 I’m currently working on my personal website: [link](#)
 - 🌱 I’m currently learning Spring Boot, diving deep into microservices architecture, and enhancing my knowledge in Java-based web development.
