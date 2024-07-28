@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a Indie Web Developer focused on building in public. 🚀
+I'm a Indie Web Developer. 🚀
 
-- 🔭 I’m currently working on my personal website: [link](#)
+- 🔭 I’m currently working on my personal website: [link](https://github.com/oscar-cyou/oscar-cyou-website)
 - 🌱 I’m currently learning Spring Boot, diving deep into microservices architecture, and enhancing my knowledge in Java-based web development.
 - 👨‍💻 I’m looking to collaborate on full-stack projects or open-source initiatives.
 - 💡 I’m looking to create an online ebook platform to share knowledge and foster learning.
